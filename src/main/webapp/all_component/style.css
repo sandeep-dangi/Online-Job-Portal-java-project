@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 Nov 2022, 11:39:40
+    Author     : sandeep dangi
+*/
+.bg-custom {
+    background: #283593 !important;
+    
+    /* #8e24aa;  #aa00ff*/
+   
+}
+
+.navbar .nav-item .nav-link {
+    font-size: 20px;
+    color: white;
+}
+
+.navbar .nav-item:hover .nav-link {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    
+}
+
+
+.continer-fluid {
+
+}
